@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(135deg, #ffe6f0, #fff4f4);
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  letter-spacing: 2px;
+}
